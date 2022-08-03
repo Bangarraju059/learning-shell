@@ -22,5 +22,8 @@ In shell we are creating scripts and those we are going to give extentions to un
 We learn bash shell here.
 So the file name either .bash or .sh
 
+We can execute the script as `bash script.sh`
+
+
 
 
