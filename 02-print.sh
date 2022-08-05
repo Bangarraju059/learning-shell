@@ -16,3 +16,4 @@ echo -e "\e[31mHello\e[0m"
 #       \e[31m, 31 is color code
 #       \e[0m, 0 is to reset the color
 ## Note: In shell when we enable any color then it is our responsibilty to disable it.
+
