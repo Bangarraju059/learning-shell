@@ -17,3 +17,15 @@ echo -e "\e[31mHello\e[0m"
 #       \e[0m, 0 is to reset the color
 ## Note: In shell when we enable any color then it is our responsibilty to disable it.
 
+## Colors #code
+
+# RED     31
+# GREEN   32
+# YELLOW  33
+# BLUE    34
+# MAGENTA 35
+# CYAN    36
+
+## We prefer to go with double quotes " ". It will treat few characters like $ as special characters.
+
+
