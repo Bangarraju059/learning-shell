@@ -8,3 +8,5 @@ case $1 in
      ;;
    *)
      echo 'Item not found'
+    ;;
+  esac
